@@ -722,6 +722,18 @@ for chunk in stream:
 
 ---
 
+## Star History
+
+<a href="https://star-history.com/#OpenXApi-art/OpenXApi&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=OpenXApi-art/OpenXApi&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=OpenXApi-art/OpenXApi&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=OpenXApi-art/OpenXApi&type=Date" />
+ </picture>
+</a>
+
+---
+
 ## Contact / 联系我们
 
 - Email: [feiqijie598@gmail.com](mailto:feiqijie598@gmail.com)
